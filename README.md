@@ -7,7 +7,8 @@ Has the ability to read custom boards made from 0s and 1s.
 
 
 # Board Layout
-Using 0s and 1s in a regular txt file,
+
+On top of having randomized board layouts, you can use 0s and 1s in a regular txt file to create a custom board.
 
 ```
 0000100000000000000000000
@@ -28,6 +29,6 @@ Using 0s and 1s in a regular txt file,
 1000000000000001000000000
 ```
 
-will lay out the mines as:
+The text above will turn into:
 
 ![image](https://github.com/JULLACE/Minesweeper-SFML/assets/88823380/182131a8-01ff-4e14-8573-45e23a8bc46b)
